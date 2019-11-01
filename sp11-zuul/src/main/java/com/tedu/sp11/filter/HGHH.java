@@ -4,6 +4,6 @@ public class HGHH {
 
 	private int id;
 	private int ti;
-	private String double;
+	private String ddd;
 	
 }
