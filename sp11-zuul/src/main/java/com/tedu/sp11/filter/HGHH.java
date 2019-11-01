@@ -6,6 +6,5 @@ public class HGHH {
 	private int ti;
 	private String doubkl;
 	private String ddd;
-	
-	
+
 }
